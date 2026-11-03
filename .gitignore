@@ -1,0 +1,19 @@
+# 密钥（永远不进仓库）
+.env
+.env.*
+密钥*
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 杂项
+*.log
+*.tmp
